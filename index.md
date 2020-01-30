@@ -1,9 +1,4 @@
-[My Github Profile](https://github.com/hablum "Hassib's Github profile!")
-
-
-# Activities and Modules completed
-[Here are my Khan Academy projects](https://www.khanacademy.org/profile/hassibk/projects "My projects!")
-
+[My Github Profile](https://github.com/hablum "Colin's Github profile!")
 
 ## 1. Intro to Javascript
 
