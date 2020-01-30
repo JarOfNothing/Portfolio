@@ -5,7 +5,7 @@
 
 ## 1. Khan Academy
 
-![alt text](https://www.khanacademy.org/profile/JarOfNothing/goals/teacher/kaid_94883418545426983222200/class/5567865196085248 "")
+https://www.khanacademy.org/profile/JarOfNothing/goals/teacher/kaid_94883418545426983222200/class/5567865196085248
 
 ## 2. Hackathon Cubing
 
