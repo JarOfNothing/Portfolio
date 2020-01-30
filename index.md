@@ -1,4 +1,7 @@
-[My Github Profile](https://github.com/hablum "Colin's Github profile!")
+[My Github Profile](https://github.com/hablum "Colin's Github profile")
+
+## Colin's Github
+
 
 ## 1. Intro to Javascript
 
