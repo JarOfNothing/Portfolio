@@ -3,15 +3,12 @@
 ## Colin's Github
 
 
-## 1. Intro to Javascript
+## 1. Khan Academy
 
-I finished Intro to Javascript on Khan Academy which was my first time using this language. A wide variety of code such as objects, arrays, loops and more are used in the projects and assignments. A good example of that is Project: Fish tank which has you define the properties of a fish and place it with like an object.
+![alt text](https://www.khanacademy.org/profile/JarOfNothing/goals/teacher/kaid_94883418545426983222200/class/5567865196085248 "")
 
-![alt text](https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4653500623650816/5639274879778816.png "Fish tank project!")
+## 2. Hackathon Cubing
 
-## 2. Intro to HTML/CSS
-
-I also finished intro to HTML/CSS on Khan Academy. My favourite part of this was learning how to style and colour everything with HTML. One of my projects, Travel Webpage has you colour text and insert images which is very important to using HTML and is also a good example of the things you learn.
 
 ![alt text](https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6056261859311616/5674248798470144.png "Travel webpage!")
 
