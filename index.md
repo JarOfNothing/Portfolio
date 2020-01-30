@@ -9,20 +9,15 @@ https://www.khanacademy.org/profile/JarOfNothing/goals/teacher/kaid_948834185454
 
 ## 2. Hackathon Cubing
 
+https://creamboat.github.io/Website/
 
-![alt text](https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6056261859311616/5674248798470144.png "Travel webpage!")
+## 3. Microbit
 
-## 3. Natural Simulations
-
-I found Natural Simulations to be more difficult compared to the other 2 modules on Khan Academy because of all the newly introduced functions and things in JS. They were a bit overwhelming because of their complexity but I still finished it. Number distribution is used to randomly place things which I found cool so I picked Project: Paint splatter for randomly picking the location and colour palettes.
-
-![alt text](https://www.khanacademy.org/computer-programming/spin-off-of-project-paint-splatter/4729365169602560/5665117697998848.png "Paint splatter!")
+https://makecode.microbit.org/99836-16421-97480-02914
 
 ## 4. Coding Challenge
 
-Our summative in ICS4U was replicating a coding challenge by Dan Shiffman and my team chose Asteroids. We settled on Asteroids because we thought it looked cool and liked the physics used by accelerating the ship and laser to destroy the asteroids by splitting them into smaller pieces.
-
-![alt text](https://camo.githubusercontent.com/7f1b3705ec5df6917d1dc9b92fc15d4a87c02849/68747470733a2f2f692e696d6775722e636f6d2f76365630766d5a2e676966 "Asteroids gif (not by me)")
+https://editor.p5js.org/
 
 ## 5. Arduino Nano board
 
